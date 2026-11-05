@@ -47,7 +47,7 @@ Descarga el archivo empaquetado directamente desde este repositorio:
 
 ### 2. Descomprimir y ubicar
 1. Haz doble clic sobre **`LimpiarMac.tar`** para extraer la aplicación **`LimpiarMac.app`**.
-2. Arrastra **`LimpiarMac.app`** a tu carpeta de **`Aplicaciones`** (o déjala en tu **`Escritorio`**).
+2. Arrastra **`LimpiarMac.app`** a tu carpeta de **`Aplicaciones`**.
 
 ---
 
